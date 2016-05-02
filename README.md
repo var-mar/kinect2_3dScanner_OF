@@ -1,13 +1,13 @@
-# Scanning 3D tool for Kinect v2 (Openframeworks 0.9.3)
-## This app came out of our investigation on how scan objects with Kinect v2 and get an unified pointcloud.
+## Scanning 3D tool for Kinect v2 (Openframeworks 0.9.3)
+### This app came out of our investigation on how scan objects with Kinect v2 and get an unified pointcloud.
 
 ![3D scanning interface](/scan-portrait.png)
 
-### Dependencies:
+#### Dependencies:
 * [ofxKinectForWindows2](https://github.com/elliotwoods/ofxKinectForWindows2): A wrapper of Kinect 2 SDK for Openframeworks made by @elliotwoods
 * [ofxDatGui](https://github.com/braitsch/ofxDatGui): Gui library
 
-### Instructions:
+#### Instructions:
 This apps gets the pointcloud of an object on each side. Then it unifies meshes and exports it into a PLY file.
 
 In order to get a good scanning, you have to place it in front of the Kinect (the center point is marked with the intersection of two yellow lines).
