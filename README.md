@@ -1,4 +1,4 @@
-## Scanning 3D tool for Kinect v2 (Openframeworks 0.9.3)
+## 3D scanning tool for Kinect v2 (Openframeworks 0.9.3)
 ### This app came out of our investigation on how scan objects with Kinect v2 and get an unified pointcloud.
 
 ![3D scanning interface](/scan-portrait.png)
